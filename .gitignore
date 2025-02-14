@@ -1,0 +1,10 @@
+# Ignora arquivos de imagem
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+*.webp
